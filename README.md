@@ -1,0 +1,1 @@
+life: day 1
